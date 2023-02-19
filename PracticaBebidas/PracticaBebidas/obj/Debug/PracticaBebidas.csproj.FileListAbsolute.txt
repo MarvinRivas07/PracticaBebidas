@@ -1,0 +1,8 @@
+C:\Users\Marvi\Desktop\PROGRA lll\PracticaBebidas\PracticaBebidas\bin\Debug\PracticaBebidas.exe.config
+C:\Users\Marvi\Desktop\PROGRA lll\PracticaBebidas\PracticaBebidas\bin\Debug\PracticaBebidas.exe
+C:\Users\Marvi\Desktop\PROGRA lll\PracticaBebidas\PracticaBebidas\bin\Debug\PracticaBebidas.pdb
+C:\Users\Marvi\Desktop\PROGRA lll\PracticaBebidas\PracticaBebidas\obj\Debug\PracticaBebidas.csproj.AssemblyReference.cache
+C:\Users\Marvi\Desktop\PROGRA lll\PracticaBebidas\PracticaBebidas\obj\Debug\PracticaBebidas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marvi\Desktop\PROGRA lll\PracticaBebidas\PracticaBebidas\obj\Debug\PracticaBebidas.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Desktop\PROGRA lll\PracticaBebidas\PracticaBebidas\obj\Debug\PracticaBebidas.exe
+C:\Users\Marvi\Desktop\PROGRA lll\PracticaBebidas\PracticaBebidas\obj\Debug\PracticaBebidas.pdb
